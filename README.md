@@ -1,1 +1,1 @@
-# cs_263_midterm
+# CS 263 Midterm Project
